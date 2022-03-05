@@ -1,0 +1,3 @@
+requests
+
+https://www.wikidata.org/wiki/Wikidata:Data_access#Linked_Data_interface
